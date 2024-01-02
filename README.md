@@ -1,4 +1,5 @@
-### Hi there 👋
+### In a delightful paradox: ☕ exploring coffee for my love of Java or delving into Java fueled by my passion for coffee. 🖥️
+![Header](./your-header-image-name.png)
 
 <!--
 **siddheshghule/siddheshghule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
